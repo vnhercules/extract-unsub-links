@@ -1,2 +1,9 @@
-# extract-unsub-links-from-msgs
-Extract unsubscribe links from Gmail messages using Apps Scripts and Python
+# Extract Unsubscribe Links from Gmail Messages
+
+## Overview
+- Identify Gmail messages for extraction
+- Extract message metadata and load to Google Sheets (Apps Script)
+- Process message body, extract unsubscribe link, and write link back to Google Sheets (Python)
+- Review and unsubscribe! 😍
+<br>
+
