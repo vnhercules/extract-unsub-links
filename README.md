@@ -6,3 +6,4 @@
 - Review and unsubscribe! 😍
 <br>
 
+[Learn more >>](https://medium.com/@vnhercules/extract-unsubscribe-links-from-emails-using-apps-script-and-python-800afb8e0ec6)
